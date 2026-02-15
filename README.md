@@ -29,7 +29,7 @@ Le dataset **powerconsumption** comporte **52 416 observations** avec **09 varia
 ## Structure du dépôt
 * `data/` : Contient le fichier source `powerconsumption.csv`.
 * `images/` : Contient les graphiques d'analyse (ex: courbes de charge, corrélations).
-* `analyse.py` (ou notebook) : Code source de l'étude.
+* `projet final.ipynb` (ou notebook) : Code source de l'étude.
 
 ##  Technologies utilisées
 * **Python 3**
